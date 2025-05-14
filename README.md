@@ -74,10 +74,3 @@ The project utilizes the [GoEmotions dataset](https://github.com/google-research
 
 ---
 
-
----
-
-## 📬 Contact
-
-For any inquiries or feedback, please contact [akila-08](https://github.com/akila-08).
-
